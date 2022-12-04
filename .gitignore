@@ -1,2 +1,13 @@
 /.env
 /venv/
+/leader-id.html
+
+.idea/
+
+headers.txt
+
+users.json
+
+users.csv
+
+user_headers.txt
