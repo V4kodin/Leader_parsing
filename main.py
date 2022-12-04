@@ -1,12 +1,9 @@
 import sys
-import time
-
 import requests
 import json
 import csv
 from dotenv import load_dotenv
 import bs4
-
 
 
 def main():
@@ -62,10 +59,7 @@ def main():
 
         i += 1
         sys.stdout.flush()
-        print(f'\r{round(i/len(users_id)*100, 2)}%', end='')
-
-
-
+        print(f'\r{round(i / len(users_id) * 100, 2)}%', end='')
 
     # write users to json file
     with open('users.json', 'w') as f:
