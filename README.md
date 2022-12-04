@@ -4,7 +4,11 @@ Parsed data is stored in `users.json` and `users.csv` files
 ## installation and usage
 ```
 git clone https://github.com/V4kodin/Leader_parsing
+```
+```
 python -m venv env env/Scripts/Activate.ps1
+```
+```
 pip install -r requirements.txt
 ```
 * Create account on https://leader-id.ru/ 
