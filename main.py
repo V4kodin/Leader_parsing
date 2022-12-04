@@ -74,7 +74,7 @@ def main():
         for user in users:
             writer.writerow(user)
 
-    input("Press Enter to continue...")
+    input("\nPress Enter to continue...")
 
 
 def parse_headers(file_name):
