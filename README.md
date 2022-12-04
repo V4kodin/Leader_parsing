@@ -6,7 +6,10 @@ Parsed data is stored in `users.json` and `users.csv` files
 git clone https://github.com/V4kodin/Leader_parsing
 ```
 ```
-python -m venv env env/Scripts/Activate.ps1
+python -m venv env
+```
+```
+env/Scripts/Activate.ps1
 ```
 ```
 pip install -r requirements.txt
