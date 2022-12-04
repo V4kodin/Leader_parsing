@@ -27,4 +27,4 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
-if you want pars with another filters change `url_json` in `main.py` with url from headers from `headres.txt` (click copy url on request)
+if you want pars with another filters, change `url_json` in `main.py` with url from headers from `headres.txt` (click copy url on request)
