@@ -1,0 +1,13 @@
+Host: leader-id.ru
+User-Agent:
+Accept: application/json
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://leader-id.ru/users
+DNT: 1
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Authorization:
+Connection: keep-alive
+Cookie:
