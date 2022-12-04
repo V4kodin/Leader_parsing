@@ -1,4 +1,6 @@
 # PYTHON parser for leader-id.ru
+This parser is written in Python 3.10.0, following libraries you can see in `requirements.txt`   
+Parsed data is stored in `users.json` and `users.csv` files
 ## installation and usage
 ```
 git clone https://github.com/V4kodin/Leader_parsing
