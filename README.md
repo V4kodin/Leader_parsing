@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ![headers](/1.png)
 * edit `user_headers.txt` file with your headers from https://leader-id.ru/users/<any_user_id> which you can select from https://leader-id.ru/users
 ![user_headers](/2.png)
-### !!! PAST INTO headers.txt and user_headers.txt WITHOUT 1st ROW !!!
+### !!! PAST INTO `headers.txt` and `user_headers.txt` WITHOUT 1st ROW !!!
 
 ```
 python main.py
